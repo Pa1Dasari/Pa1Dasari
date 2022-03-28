@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pa1dasari&label=Profile%20views&color=0e75b6&style=flat" alt="pa1dasari" /> </p>
 
-- 🔭 I’m currently pursuing **my masters in Data Science.**
+- 🔭 I’m currently pursuing **My Masters in Data Science.**
 
 - 👨‍💻 Check out my portfolio at [https://pavandasari.lovestoblog.com/](https://pavandasari.lovestoblog.com/)
 
