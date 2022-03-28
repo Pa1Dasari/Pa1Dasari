@@ -8,13 +8,15 @@
 
 - 📝 I regularly write articles on [https://treasureofdata.blogspot.com/](https://treasureofdata.blogspot.com/)
 
-- 💬 Ask me anything about **Data Science.**
-
 - 📫 You can reach me on **pavancharan16@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/pavan-dasari-a1086698](www.linkedin.com/in/pavan-dasari-a1086698)
 
-- ⚡ Fun fact **I am a good story teller and Public Speaker.**
+- 🌱 Listen to me on **https://open.spotify.com/show/2ZN3sSvxMckeYNJG9CepNr**
+
+-  💬 Ask me anything about **Data Science.**
+
+- ⚡ Fun fact **I am a good Story Teller and a Public Speaker.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
