@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pavan-dasari-a1086698/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pavan-dasari-a1086698/" height="30" width="40" /></a>
 <a href="https://instagram.com/_the_modern__monk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_the_modern__monk" height="30" width="40" /></a>
-<a href="https://medium.com/pavandasari1616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="pavandasari1616" height="30" width="40" /></a>
+<a href="https://medium.com/@pavandasari1616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="pavandasari1616" height="30" width="40" /></a>
 <a href="/https://anchor.fm/s/53af168c/podcast/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://anchor.fm/s/53af168c/podcast/rss" height="30" width="40" /></a>
 </p>
 
