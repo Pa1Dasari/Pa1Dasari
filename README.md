@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://treasureofdata.blogspot.com/](https://treasureofdata.blogspot.com/)
 
-- 💬 Ask me about **Data Science.**
+- 💬 Ask me anything about **Data Science.**
 
 - 📫 You can reach me on **pavancharan16@gmail.com**
 
