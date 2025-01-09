@@ -5,13 +5,13 @@
 
 - 📝 I regularly write articles on [https://treasureofdata.blogspot.com/](https://treasureofdata.blogspot.com/)
 
-- 📫 You can reach me on **pavancharan16@gmail.com**
+- 📫 You can reach me at **pavancharan16@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/pavan-dasari](https://www.linkedin.com/in/pavan-dasari97/)
+- 📄 Check my professional experience:  [www.linkedin.com/in/pavan-dasari](https://www.linkedin.com/in/pavan-dasari97/)
 
 -  💬 Ask me anything about **AI**
 
-- ⚡ Fun fact :  **I am a good Story Teller and a Public Speaker.**
+- ⚡ Fun fact :  **I am a good Story Teller and a Public Speaker who delivers guest lecutures on AI.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
