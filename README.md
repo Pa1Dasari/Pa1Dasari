@@ -3,17 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pa1dasari&label=Profile%20views&color=0e75b6&style=flat" alt="pa1dasari" /> </p>
 
 
-- 👨‍💻 Check out my portfolio at [https://pavandasari.lovestoblog.com/](https://pavandasari.lovestoblog.com/)
-
 - 📝 I regularly write articles on [https://treasureofdata.blogspot.com/](https://treasureofdata.blogspot.com/)
 
 - 📫 You can reach me on **pavancharan16@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/pavan-dasari-a1086698](www.linkedin.com/in/pavan-dasari-a1086698)
+- 📄 Know about my experiences [www.linkedin.com/in/pavan-dasari](https://www.linkedin.com/in/pavan-dasari97/)
 
-- 🌱 Listen to me on **https://open.spotify.com/show/2ZN3sSvxMckeYNJG9CepNr**
-
--  💬 Ask me anything about **Data Science.**
+-  💬 Ask me anything about **AI**
 
 - ⚡ Fun fact **I am a good Story Teller and a Public Speaker.**
 
